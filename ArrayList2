@@ -1,0 +1,14 @@
+
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+	ArrayList al=new ArrayList();
+	al.add(1);
+	al.add("Hello");
+	al.add(true);
+	al.add(9.77);
+	al.add('A');
+		System.out.println(al);
+	}
+}
